@@ -30,10 +30,10 @@ var APP_DATA = {
       },
       "linkHotspots": [
         {
-          "yaw": -1.8142355546163191,
-          "pitch": 0.12070097983598416,
+          "yaw": -1.8027265458020043,
+          "pitch": 0.1626307897790369,
           "rotation": 1.5707963267948966,
-          "target": "0-salon-ppal"
+          "target": "1-rea-lavacabezas"
         }
       ],
       "infoHotspots": []
@@ -77,7 +77,7 @@ var APP_DATA = {
       "infoHotspots": []
     }
   ],
-  "name": "Project Title",
+  "name": "MARÍA CATAÑO",
   "settings": {
     "mouseViewMode": "drag",
     "autorotateEnabled": false,
